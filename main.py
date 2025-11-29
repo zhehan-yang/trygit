@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print("Version 1.3")
     print("Version 1.4")
     print("Version 1.5")
+    print("Version 1.6")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
